@@ -15,6 +15,8 @@ https://github.com/SymaraCamargo/site-de-gatos.git
 
 2. Abra o arquivo `index.html` no navegador.
 
+3. Visite o site: https://symaracamargo.github.io/site-de-gatos/
+
 ## Sobre mim
 
 Desenvolvido por Symara Camargo — apaixonada por desenvolvimento web e gatos!
